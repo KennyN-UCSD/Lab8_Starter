@@ -1,8 +1,14 @@
 # Lab 8 - Starter
 
+## Student and Repo Page
+
 Kenny Nguyen
 
-https://kennyn-ucsd.github.io/Lab8_Starter/
+[GitHub Page](https://kennyn-ucsd.github.io/Lab8_Starter/)
+
+## Test Screenshot
+
+[Test Screenshot](https://github.com/KennyN-UCSD/Lab8_Starter/blob/main/Lab8%20Tests.png)
 
 ## Questions
 
